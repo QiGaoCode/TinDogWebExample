@@ -1,5 +1,4 @@
 web page which uses Bootstrap HTML and CSS
 The github web: https://qigaocode.github.io/TinDogWebExample/
-update the web
-！
-very simple example。
+
+This is a very simple example to review .
